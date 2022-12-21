@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Nazmun",
+        "email": "anika.viki987@gmail.com",
+        "password": "123",
+        "phone": "01833342067",
+        "gender": "female",
+        "place": [
+            "Dhaka"
+        ],
+        "filepath": "application\/pdf",
+        "address": "Nikunja-2,road-1\/b,house-4,dhaka\r\n"
+    },
+    {
+        "name": "Nazmun Nahar",
+        "email": "anika.viki987@gmail.com",
+        "password": "123",
+        "phone": "01833342067",
+        "gender": "female",
+        "place": [
+            "Dhaka"
+        ],
+        "filepath": "application\/pdf",
+        "address": "Nikunja-2,road-1\/b,house-4,dhaka\r\n"
+    },
+    {
+        "name": "Nahar",
+        "email": "anika.viki987@gmail.com",
+        "password": "123",
+        "phone": "01833342067",
+        "gender": "female",
+        "place": [
+            "Dhaka"
+        ],
+        "filepath": "application\/pdf",
+        "address": "Nikunja-2,road-1\/b,house-4,dhaka\r\n"
+    },
+    {
+        "name": "Nahara",
+        "email": "anika.viki987@gmail.com",
+        "password": "123",
+        "phone": "01833342067",
+        "gender": "female",
+        "place": [
+            "Dhaka"
+        ],
+        "filepath": "application\/pdf",
+        "address": "Nikunja-2,road-1\/b,house-4,dhaka\r\n"
+    }
+]

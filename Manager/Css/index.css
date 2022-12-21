@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    background-color:lightblue;
+}
+.row{
+    display: flex;
+}
+header{
+    background-color: cadetblue;
+    margin: 0px;
+}
+.div1{
+    margin-left: 5%;
+    margin-right: 35%;
+}

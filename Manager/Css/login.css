@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    margin: 0px;
+}
+form{
+    background-color:burlywood;
+    padding: 10px;
+    margin: 0px 30% 0% 30%;
+}
+.btn{
+    background-color:chocolate;
+    color: white;
+    padding: 2px 5px;
+    margin: 3px;
+    border-radius: 12px;
+}

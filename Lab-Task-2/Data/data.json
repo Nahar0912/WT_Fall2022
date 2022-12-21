@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Nazmun Nahar",
+        "email": "anika.viki987@gmail.com",
+        "password": "123",
+        "phone": "0183334",
+        "gender": "male",
+        "place": [
+            "Chittagong",
+            "Rajshahi"
+        ],
+        "filepath": "application\/pdf",
+        "address": "Nikunja-2,house-4,dhaka\r\n"
+    },
+    {
+        "name": "naz",
+        "email": "anika.viki987@gmail.com",
+        "password": "12345",
+        "phone": "01833342067",
+        "gender": "female",
+        "place": [
+            "Dhaka"
+        ],
+        "filepath": "application\/pdf",
+        "address": "drfedrrerwdfwedrf"
+    },
+    {
+        "name": "Nazmun Nahar",
+        "email": "anika.viki987@gmail.com",
+        "password": "12345678",
+        "phone": "01833342067",
+        "gender": "male",
+        "place": [
+            "Dhaka",
+            "Chittagong"
+        ],
+        "filepath": "application\/pdf",
+        "address": "Nikunja-2,road-1\/b,house-4,dhaka\r\n"
+    }
+]
